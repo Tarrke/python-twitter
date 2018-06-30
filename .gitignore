@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # my secure files
-*.secure.py
+*secure.py
